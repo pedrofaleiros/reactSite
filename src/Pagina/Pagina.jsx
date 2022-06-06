@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Footer } from '../footer/Footer'
 import { Menu } from '../Menu/Menu'
-import { Produtos } from '../Produtos/Produtos'
+import { Principal } from '../Principal/Principal'
 import './style.css'
 
 export function Pagina() {
@@ -10,7 +10,7 @@ export function Pagina() {
   return (
     <div>
       <Menu />
-      <Produtos />
+      <Principal />
       <Footer />
     </div>
   )
