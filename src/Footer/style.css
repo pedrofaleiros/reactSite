@@ -1,0 +1,10 @@
+footer {
+  height: 15vh;
+  background-color: var(--dark-color);
+  text-align: center;
+  padding: 5vh;
+}
+
+p {
+	color: var(--light-color);
+}

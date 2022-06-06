@@ -1,0 +1,13 @@
+* {
+  --black-color: #373740;
+  --dark-color: #151520;
+  --light-color: #f4f1ed;
+  --primary-color: #c7585e;
+  --primary-text: #eeeee4;
+  --secundary-color: #4c7bf2;
+  --terciary-color: #f8cb5f;
+}
+
+body {
+  overflow-x: hidden;
+}
