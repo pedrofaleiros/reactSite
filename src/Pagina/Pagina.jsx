@@ -5,7 +5,6 @@ import { Principal } from '../Principal/Principal'
 import './style.css'
 
 export function Pagina() {
-  const [count, setCount] = useState(0)
 
   return (
     <div>
